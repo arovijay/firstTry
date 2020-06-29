@@ -3,4 +3,4 @@ RioMarcus(){
 
 Sejo()
 
-Judith(){}
+Judith(){ return true; }
