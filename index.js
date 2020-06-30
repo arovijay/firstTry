@@ -1,3 +1,4 @@
-today(){}
+today()
+{}
 
 tomorrow(){}
