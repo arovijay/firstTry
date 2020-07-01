@@ -9,6 +9,7 @@ today(){}
 
 master(){}
 
-squash(){
+squash()
+{
 	return true;
 }
