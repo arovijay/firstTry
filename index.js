@@ -10,5 +10,11 @@ today(){}
 
 master(){}
 
-do() {
+
+do() { }
+
+squash2() {}
+
+squash() {
+	return;
 }
