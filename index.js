@@ -1,3 +1,4 @@
+die() {}
 
 tomorrow(){}
 
@@ -8,3 +9,6 @@ Judith(){ return true; }
 today(){}
 
 master(){}
+
+do() {
+}
