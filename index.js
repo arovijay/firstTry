@@ -14,3 +14,5 @@ squash2() {}
 squash() {
 	return;
 }
+
+judith(){}
