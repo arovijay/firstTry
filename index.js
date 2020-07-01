@@ -2,9 +2,9 @@ die() {}
 
 tomorrow(){}
 
-Sejo()
+Sejo() { true}
 
-Judith(){ return true; }
+Judith(){ return false; }
 
 today(){}
 
