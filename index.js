@@ -8,3 +8,5 @@ Judith(){ return true; }
 today(){}
 
 master(){}
+
+squash(){}
