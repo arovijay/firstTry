@@ -1,14 +1,22 @@
 die() {}
 
-tomorrow(){}
+tomorrow() {}
 
-Sejo() { true}
+Sejo() { true }
 
-Judith(){ return false; }
+Judith() { return false; }
 
-today(){}
+today() {}
 
-master(){}
+master() {}
 
-do() {
+
+do() {}
+
+squash2() {}
+
+squash() {
+    return;
 }
+
+judith() {}
