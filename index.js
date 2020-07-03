@@ -1,6 +1,6 @@
 die() {}
 
-tomorrow() {}
+tomorrow() { return true; }
 
 Sejo() { true }
 
